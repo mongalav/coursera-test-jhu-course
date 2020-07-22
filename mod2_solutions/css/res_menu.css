@@ -48,7 +48,7 @@ h1{
 }
 
 /********for devices having min-width:992 and max-width:1199px*********/
-@media (min-width:992px) and (max-width:1199px){
+@media (min-width:768px) and (max-width:991px){
     .container{
         width: 100%;
         margin:auto;
@@ -70,7 +70,7 @@ h1{
     
 }
 /********for devices having max-width:991*********/
-@media (max-width:991px){
+@media (max-width:767px){
     /* .container{
         width:100%;
         margin: auto;
